@@ -1,0 +1,172 @@
+.foto{
+    border: 3px outset #48bed6;
+    
+}
+.sagis{
+    padding:5px;
+    border: 3px outset #48bed6;
+    
+}
+ .DivOrg
+     {
+      width:100%;
+      height:1px;
+      border: 5px outset #41cd8e;
+      border-radius:20px;
+     }
+     
+     .text    {
+ padding: 20px;
+border:1px;
+border-radius:50px;
+background:#48bed6;
+opacity:0.8;
+position:absolute;
+z-index:-1;
+line-height:120%;
+text-align:left;
+}
+
+.text center {
+font-family:rebuchetMS;
+font-weight:bold;
+font-size:15.109px;
+}
+     .textIS   {
+padding: 20px;
+width:40%;
+border:1px;
+border-radius:50px;
+background:#48bed6;
+line-height:120%;
+text-align:left;
+}
+      .Div0 {
+     margin:auto;
+     display:inline-block;
+     background-position: 0 0;
+     Height: 57px;
+     width: 16%;
+     float:left;
+      
+        }
+    .Div1 {
+  text-align: center;
+  display:inline-block;
+  margin: auto;
+  border: 2px outset red;
+  border-radius: 20px;
+  
+}
+   .Div2 {
+    float:right;
+    background-color: transparent;
+  text-align: center;
+  display:inline-block;
+  margin: auto;
+}  
+/*.BigMac {
+    position: relative;
+    display: inline-block;
+ }
+ #42f5ec
+*/
+.menu {
+    cursor: pointer;
+    background-color:#4886d6;
+    padding: 20px;
+    font-size: 20px;
+    width:260px;
+    font-family: Copperplate;
+    border-color:#41cd8e;
+    border-radius: 10px;
+    border-width:2px;
+ 
+}
+.menu:hover {background-color:#324ca8}
+.dropdownSub {
+   display: none;
+   position: relative;
+   min-height:600px;
+   border-radius: 5px;
+   
+      
+}
+
+ .dropdownSub a {
+    text-decoration:none;
+    background-color: #4886d6;
+    text-align:center;
+    font-family: courier;
+    color: black;
+    min-width:260px;
+    display: block;
+    border: 1px outset #41cd8e;
+    border-radius:5px;
+ }
+ 
+ .dropdownSub a:hover {background-color:  #324ca8 }
+ 
+ .show {display:block;}
+
+.dropdwn {
+   display: none;
+   position: relative;
+   border-radius: 5px;
+}
+
+ .dropdwn a {
+    text-decoration:none;
+    background-color: #4886d6;
+    text-align:center;
+    font-family: courier;
+    color: black;
+    min-width:260px;
+    display: block;
+    border: 1px outset #41cd8e;
+    border-radius:5px;
+ }
+ 
+ .dropdwn a:hover {background-color:  #324ca8 }
+ 
+
+.shown {display:block;}
+
+.dropdwn2 {
+   display: none;
+   position: relative;
+   border-radius: 5px;
+}
+
+ .dropdwn2 a {
+    text-decoration:none;
+    background-color: #4886d6;
+    text-align:center;
+    font-family: courier;
+    color: black;
+    min-width:260px;
+    display: block;
+    border: 1px outset #41cd8e;
+    border-radius:5px;
+ }
+ 
+ .dropdwn2 a:hover {background-color:  #324ca8 }
+ 
+
+.shown2 {display:block;}
+
+
+.textPI   {
+ padding: 40px;
+border:1px;
+border-radius:50px;
+background:#48bed6;
+z-index:-1;
+line-height:120%;
+text-align:left;
+}
+
+
+
+
+ 
